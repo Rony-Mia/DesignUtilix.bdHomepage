@@ -1,0 +1,10 @@
+{
+  "description": "A Bangla-first utility platform offering free, offline online tools like text, image, calculator, and PDF utilities tailored for Bangladeshi users.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
